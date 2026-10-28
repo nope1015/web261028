@@ -35,37 +35,37 @@ dan = 2
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 3
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 4
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 5
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 6
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 7
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 8
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
 }
-console.log(" ");
+console.log("  ");
 dan = 9
 for (let i = 1; i <= 9; i++) {
     console.log(`${dan} * ${i} = ${dan * i}`);
